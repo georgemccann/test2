@@ -17,11 +17,11 @@ search: false
 
 body {
   font-family: 'Lato', sans-serif!important;
-  color: #3C3C3B;
+  color: #3b3b3a;
 }
 
 a {
-  color: #0B8781;
+  color: #3b006f;
 }
 h1 {
   font-weight: 700;
@@ -29,4 +29,12 @@ h1 {
 
 h2, h3, h4, h5, h6, h7 {
   font-weight: 300;
+}
+
+.page__footer-follow {
+  display:none;
+}
+
+.page__footer {
+  background-color: #3b006f;
 }
