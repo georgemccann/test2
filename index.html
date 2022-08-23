@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/feature.png
+  overlay_image: /assets/images/features.png
   cta_label: "Get Started in 10 Minutes 
 "
   cta_url: "/docs/quick-start-guide/"
