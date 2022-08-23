@@ -13,3 +13,17 @@ search: false
 #site-nav .site-title {
   display:none;
 }
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+body {
+  font-family: 'Lato', sans-serif!important;
+  color: #3C3C3B;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+h2, h3, h4, h5, h6, h7 {
+  font-weight: 300;
+}
