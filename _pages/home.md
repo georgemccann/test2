@@ -26,7 +26,7 @@ feature_row:
                 <li>Reduced data sizes</li>
                 <li>Easy to add other compression schemes</li>
                 <li>Can be optimized for web visualization or scientific computing</li>
-              </li>"
+              </ul>"
     #url: "/docs/layouts/"
     #btn_label: "Learn More"
   - image_path: ''
