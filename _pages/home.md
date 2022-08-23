@@ -12,10 +12,13 @@ excerpt: 'Fast energy data storage architecture for AI, ML and HPC cloud native 
 feature_row:
   - image_path: /assets/images/feature.png
     alt: "customizable"
-    title: "Super Customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_label: "Learn More"
+    title: "Cloud-native, chunked and compressed"
+    excerpt: "<ul>
+        <li>Significant reduction in cloud storage and processing costs</li>
+        <li>Easier to process spatially adjacent information</li>
+      </ul>"
+    #url: "#"
+    #btn_label: "Learn More"
   - image_path: mm-responsive-feature.png
     alt: "fully responsive"
     title: "Responsive Layouts"
