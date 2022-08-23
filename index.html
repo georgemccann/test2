@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/features.png
   cta_label: "Get Started in 10 Minutes 
 "
-  cta_url: "/docs/quick-start-guide/"
+  cta_url: "https://google.com"
   caption: ''
 excerpt: 'Fast energy data storage architecture for AI, ML and HPC cloud native workflows'
 feature_row:
