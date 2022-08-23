@@ -1,15 +1,16 @@
 ---
 layout: splash
-permalink: /home/
+permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: mm-home-page-feature.jpg
-  cta_label: "<i class='fa fa-download'></i> Install Now"
+  overlay_image: /assets/images/feature.png
+  cta_label: "Get Started in 10 Minutes 
+"
   cta_url: "/docs/quick-start-guide/"
-  caption:
-excerpt: 'A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.'
+  caption: 'Multi Dimensional Input Output'
+excerpt: 'Fast energy data storage architecture for AI, ML and HPC cloud native workflows'
 feature_row:
-  - image_path: mm-customizable-feature.png
+  - image_path: /assets/images/feature.png
     alt: "customizable"
     title: "Super Customizable"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
@@ -28,6 +29,9 @@ feature_row:
     url: "/docs/license/"
     btn_label: "Learn More"
 ---
+
+Built on top of Zarr, MDIO is an important enabler in the energy data space for quickly accessing and disseminating data on the cloud. This new fully open-source format, and associated algorithms, have been specifically designed to support the storage and manipulation of multidimensional datasets, including seismic and wind modeling data. MDIO allows for innovative growth in a wide variety of applications, including seismic and renewable energy solutions, and the algorithms' continued evolution to benefit other industry sectors.
+
 
 {% include feature_row id="intro" type="center" %}
 
