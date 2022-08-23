@@ -37,9 +37,14 @@ h2, h3, h4, h5, h6, h7 {
 
 .page__footer {
   background-color: #3b006f;
+  color: white;
 }
 
 .greedy-nav a {
+  color: #3b3b3a;
+}
+
+.greedy-nav a:hover {
   color: #3b006f;
 }
 .greedy-nav .visible-links a::before  {
