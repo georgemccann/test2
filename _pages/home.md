@@ -7,7 +7,7 @@ header:
   cta_label: "Get Started in 10 Minutes 
 "
   cta_url: "/docs/quick-start-guide/"
-  caption: 'Multi Dimensional Input Output'
+  caption: ''
 excerpt: 'Fast energy data storage architecture for AI, ML and HPC cloud native workflows'
 feature_row:
   - image_path: /assets/images/feature.png
