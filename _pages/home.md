@@ -10,8 +10,8 @@ header:
   caption: ''
 excerpt: 'Fast energy data storage architecture for AI, ML and HPC cloud native workflows'
 feature_row:
-  - image_path: ''
-    alt: ""
+  - image_path: '/assets/images/cloud.png'
+    alt: "Cloud-native, chunked and compressed"
     title: "Cloud-native, chunked and compressed"
     excerpt: "<ul>
         <li>Significant reduction in cloud storage and processing costs</li>
@@ -19,8 +19,8 @@ feature_row:
       </ul>"
     #url: "#"
     #btn_label: "Learn More"
-  - image_path: ''
-    alt: ""
+  - image_path: '/assets/images/fast.png'
+    alt: "Fast random access, de-coupled metadata"
     title: "Fast random access, de-coupled metadata"
     excerpt: "<ul>
                 <li>Reduced data sizes</li>
@@ -29,8 +29,8 @@ feature_row:
               </ul>"
     #url: "/docs/layouts/"
     #btn_label: "Learn More"
-  - image_path: ''
-    alt: ""
+  - image_path: '/assets/images/optimized.png'
+    alt: "Optimized for distributed computing and ML"
     title: "Optimized for distributed computing and ML"
     excerpt: "<ul>
                 <li>Support for massively parallel compute scalability through OSS libraries</li>
